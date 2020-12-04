@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="zxing_pdf417"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zxing_pdf417">
+				<Option output="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/zxing_pdf417" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 zxing_pdf417"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zxing_pdf417/fast">
+				<Option output="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/zxing_pdf417" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 zxing_pdf417/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/tao/workspace/YZhang/QR/zxing_pdf417/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/BarcodeFormat.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/BarcodeFormat.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Binarizer.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Binarizer.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/BinaryBitmap.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/BinaryBitmap.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/BitMatrixParser.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/BitMatrixParser_pdf417.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ChecksumException.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ChecksumException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/DecodeHints.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/DecodeHints.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/DecodedBitStreamParser.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/DecodedBitStreamParser_pdf417.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Decoder.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Decoder_pdf417.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Detector.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Detector_pdf417.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ErrorCorrection.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ErrorCorrection.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Exception.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Exception.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/FormatException.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/FormatException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/IllegalStateException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/InvertedLuminanceSource.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/InvertedLuminanceSource.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/LinesSampler.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/LinesSampler.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/LuminanceSource.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/LuminanceSource.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/MatSource.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/MatSource.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ModulusGF.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ModulusGF.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ModulusPoly.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ModulusPoly.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/MultiFormatReader.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/MultiFormatReader.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/NotFoundException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/PDF417Reader.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/PDF417Reader.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Reader.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Reader.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ReaderException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Result.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/Result.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ResultIO.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ResultPoint.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ResultPoint.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ResultPointCallback.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ResultPointCallback.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/ZXing.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigInteger.cc">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigInteger.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigIntegerAlgorithms.cc">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigIntegerAlgorithms.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigIntegerLibrary.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigIntegerUtils.cc">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigIntegerUtils.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigUnsigned.cc">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigUnsigned.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigUnsignedInABase.cc">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/BigUnsignedInABase.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/bigint/NumberlikeArray.hh">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/Array.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitArray.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitArray.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitArrayIO.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitMatrix.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitMatrix.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitSource.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/BitSource.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/CharacterSetECI.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/CharacterSetECI.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/Counted.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/DecoderResult.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/DecoderResult.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/DetectorResult.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/DetectorResult.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GlobalHistogramBinarizer.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GlobalHistogramBinarizer.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GreyscaleLuminanceSource.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GreyscaleLuminanceSource.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GreyscaleRotatedLuminanceSource.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GreyscaleRotatedLuminanceSource.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GridSampler.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/GridSampler.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/HybridBinarizer.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/HybridBinarizer.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/IllegalArgumentException.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/IllegalArgumentException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/PerspectiveTransform.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/PerspectiveTransform.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/Point.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/Str.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/Str.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/StringUtils.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/StringUtils.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/detector/JavaMath.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/detector/MathUtils.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/detector/MonochromeRectangleDetector.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/detector/MonochromeRectangleDetector.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/detector/WhiteRectangleDetector.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/detector/WhiteRectangleDetector.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/GenericGF.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/GenericGF.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/GenericGFPoly.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/GenericGFPoly.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/ReedSolomonDecoder.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/ReedSolomonDecoder.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/ReedSolomonException.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/PDF/common/reedsolomon/ReedSolomonException.h">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/main.cpp">
+			<Option target="zxing_pdf417"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/../../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/tao/workspace/YZhang/QR/zxing_pdf417/../../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
